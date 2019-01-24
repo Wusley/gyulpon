@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<volume>		
+		<titulo></titulo>
+			
+		<prologo>
+			<![CDATA[
+			]]>
+		</prologo>
+		
+		<capitulo id='1'>
+			<titulo></titulo>
+			
+			<texto>
+				<![CDATA[
+				]]>
+			</texto>
+		</capitulo>
+		
+		<extra>
+			<item>
+				<titulo>Notas do Autor</titulo>
+				
+				<texto>
+					<![CDATA[
+					]]>
+				</texto>
+			</item>
+			
+			<item>
+				<titulo>Créditos</titulo>
+				
+				<texto>
+					<![CDATA[
+					]]>
+				</texto>
+			</item>
+		</extra>
+	</volume>
+		

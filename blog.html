@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+	<head>
+		<title>Gyulpon - Blog</title>
+		<meta charset='UTF-8'>
+
+		<meta name="author" content="Wesley Lima" />
+		<meta name="generator" content="Eclipse Indigo" />
+		<meta name="description" content="Blog Gyulpon cont&eacute;m an&uacute;ncios sobre lan&ccedil;amentos de novos aplicativos, vers&otilde;es e corre&ccedil;&otilde;es. An&uacute;ncios sobre novas tecnologias e atividades di&aacute;rias do nosso time.">
+		<meta http-equiv="refresh" content="0; url=http://www.gyulpon.com/">
+	</head>
+
+	<body>
+		<div class="pos-blog">
+			<aside class="filtro">
+				<article class="pesquisar">
+					<button><img src="images/icons/16x16_zoom_icon.png" width="12" height="12" alt="" title="" />
+					</button>
+					<input type="text" name="pesquisar" placeholder="Pesquisar" />
+				</article>
+				<!-- pesquisar -->
+
+				<div id="datepicker"></div>
+
+				<nav class="nuvem">
+					<canvas width="200" height="200" id="nuvem">
+						<div id="tagList">
+							<ul></ul>
+						</div>
+						<!-- tagList -->
+					</canvas>
+				</nav>
+				<!-- nuvem -->
+			</aside>
+			<!-- filtro -->
+
+			<section itemscope itemtype="http://schema.org/Blog" class="blog">
+				<header class="blog">
+					<section class="aviso">
+						<span class="qtd">0</span>&nbsp;<span class="si-pl">Postagem</span>
+					</section>
+					<!-- aviso -->
+
+					<section class="ampliar">
+						<span>A</span>
+						<span>A</span>
+					</section>
+					<!-- ampliar -->
+				</header>
+				<!-- pos-ampliar -->
+
+				<section itemprop="blogPosts" class="post"></section>
+				<!-- post -->
+
+				<div id="paginacao"></div>
+				<!-- paginacao -->
+			</section>
+			<!-- blog -->
+		</div>
+		<!-- pos-blog -->
+
+		<div class="container">
+			<article itemprop="blogPost" class="post">
+				<h1 class="titulo"></h1>
+
+				<div class="conteudo">
+					<header class="data">
+						<span class="semana"></span>, <span class="dia"></span> de <span class="mes"></span> de <span class="ano"></span>
+					</header>
+					<!-- data -->
+
+					<article class="texto"></article>
+					<!-- texto -->
+				</div>
+				<!-- conteudo -->
+
+				<footer class="social">
+					<a href="http://www.facebook.com/share.php?u=http://gyulpon.com" target="_blank">
+					<button class="generico">
+						<img src="images/icons/20x15_like.png" width="20" height="15" alt="" title="" />
+						<span>Curtir</span>
+					</button> <!-- generico --> </a>
+
+					<a href="http://twitter.com/share?url=http://gyulpon.com&amp;text=Gyulpon&amp;hashtags=Gyulpon" target="_blank">
+					<button class="generico">
+						<img src="images/icons/20x15_twitter.png" width="20" height="15" alt="" title="" />
+						<span>Twittar</span>
+					</button> </a>
+
+					<a href="https://plus.google.com/share?url=http://gyulpon.com" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+					<button class="plus">
+						<img src="images/icons/10x15_plus.png" width="10" height="15" alt="" title="" />
+						<span>+1</span>
+					</button> </a>
+				</footer>
+				<!-- social -->
+			</article>
+			<!-- post -->
+		</div>
+		<!-- container -->
+
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-35256831-1']);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+				var ga = document.createElement('script');
+				ga.type = 'text/javascript';
+				ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+
+		<!-- libs blog -->
+		<script type="text/javascript" src="js/lib/tagcanvas.min.js"></script>
+		<!-- nuvem de tags -->
+
+		<script type="text/javascript" src="js/blogEngine.js"></script>
+		<!-- cria ambiente blog -->
+		<script type="text/javascript" src="js/eventsBlog.js"></script>
+		<!-- eventos -->
+	</body>
+</html>

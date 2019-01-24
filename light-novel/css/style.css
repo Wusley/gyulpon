@@ -1,0 +1,359 @@
+  	   	
+   	.pos-novel {
+   		z-index: 995;
+   	}
+   	
+   	article.novel header.novel {
+   		position: relative;
+   		display: table;
+        margin-top: 10px;
+   		width: 100%;
+   	}
+   	
+   	article.novel header.novel .tela-cheia {
+   		display: table;
+   		float: left;
+        margin-left: 10px;
+        width: 20px;
+        height: 20px;
+        background: url('../images/icons/80x40_light-novel.png') 0px -20px no-repeat;
+        cursor: pointer;
+   	}
+   	
+   	article.novel header.novel .luz {
+   		position: relative;
+   		margin: 0px 30px 0px 0px;
+   		float: right;
+        width: 20px;
+        height: 20px;
+        background: url('../images/icons/80x40_light-novel.png') -1px 0px no-repeat;
+        cursor: pointer;
+   	}
+   	
+   	article.novel section.ampliar {
+   		position: relative;
+   		float: right;
+   		top: auto;
+   		margin: 0px 0px 0px 0px;
+   	}
+
+	img.loading-novel {
+		position: absolute;
+    	display: none;
+    	top: 5px;
+    	right: -4px;
+	}
+   
+   	aside.lista-novels {
+        position: relative;
+        float: left;
+    	display: block;
+        width: auto;
+        margin: 0px 10px 10px 0px;
+        padding: 15px;
+        background: #212121;
+        border: rgba(255,255,255,1) 3px solid;
+        -webkit-box-shadow: -3px 3px 10px rgba(0,0,0,0.3);
+        -moz-box-shadow: -3px 3px 10px rgba(0,0,0,0.3);
+        -ms-box-shadow: -3px 3px 10px rgba(0,0,0,0.3);
+        -o-box-shadow: -3px 3px 10px rgba(0,0,0,0.3);
+        box-shadow: -3px 3px 10px rgba(0,0,0,0.3);
+        -webkit-border-radius: 10px;
+       	-moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+        border-radius: 10px;
+        z-index: 995;
+    }
+    
+    aside.lista-novels h2 {
+        width: 100%;
+        font-size: 18px;
+        font-size: 1.8em;
+        color: white;
+        margin: 5px 0px 10px 0px;
+        -webkit-text-shadow: -1px 1px 1px rgba(0, 0, 0, 1);
+		-moz-text-shadow: -1px 1px 1px rgba(0, 0, 0, 1);
+		-ms-text-shadow: -1px 1px 1px rgba(0, 0, 0, 1);
+		-o-text-shadow: -1px 1px 1px rgba(0, 0, 0, 1);
+		text-shadow: -1px 1px 1px rgba(0, 0, 0, 1);
+    }
+    
+    aside.lista-novels ul.titulos,
+    aside.lista-novels li.titulo {
+    	position: relative;
+        display: table;
+        margin: 5px 0px 5px 0px;
+    }
+    
+    aside.lista-novels ul {
+    	position: relative;
+        display: table;
+        margin: 0px 0px 0px 8px;
+    }
+
+    aside.lista-novels li  {
+    	position: relative;
+        display: table;
+        margin: 8px 0px 2px 8px;
+    }
+
+    aside.lista-novels li a {
+        color: white;
+    }
+    
+    aside.lista-novels ul li a div {
+        position: relative;
+        margin-right: 2px;
+        display: inline;
+        font-size: 5px;
+        font-size: 0.5em;
+    }
+    
+    aside.lista-novels ul.titulos a {
+    	display: block;
+        font-size: 14px;
+        font-size: 1.4em;
+    }
+    
+    aside.lista-novels ul.titulos a div {
+        bottom: 1px;
+    }
+    
+    aside.lista-novels ul.titulos li.titulo a,
+    aside.lista-novels ul.titulos li.volume a {
+        font-size: 12px;
+        font-size: 1.2em;
+    }
+    
+    aside.lista-novels ul.titulos li.volume a div {
+        font-size: 6px;
+        font-size: 0.6em;
+    }
+    
+    aside.lista-novels ul.titulos li.volume a.extra div {
+        margin-right: 8px;
+        font-size: 7px;
+        font-size: 0.7em;
+    }
+    
+    aside.lista-novels ul.titulos li.titulo a.titulo {
+    	font-size: 15px;
+        font-size: 1.5em;
+    }
+    
+    aside.lista-novels nav ul.titulos a.sinopse,
+    aside.lista-novels nav ul.titulos a.prologo,
+    aside.lista-novels ul.titulos li.volume a.volume {
+        font-size: 13px;
+        font-size: 1.3em;
+    }
+    
+    aside.lista-novels ul.titulos li.titulo a {
+        padding-right: 15px;
+    }
+    
+    aside.lista-novels ul.titulos li.volume a {
+        padding-right: 15px;
+    }
+    
+    aside.lista-novels nav ul.titulos a.sinopse,
+    aside.lista-novels nav ul.titulos a.prologo,
+    aside.lista-novels nav ul.titulos ul {
+    	display: none;
+    }
+    
+    section.container {
+        position: relative;
+        display: table;
+        width: auto;
+        z-index: 998;
+    }
+    
+    article.sobre-novel {
+        position: relative;
+        width: auto;
+        border: rgba(255,255,255,1) 3px solid;
+        -webkit-box-shadow: -3px 3px 10px rgba(0,0,0,0.3);
+        -moz-box-shadow: -3px 3px 10px rgba(0,0,0,0.3);
+        -ms-box-shadow: -3px 3px 10px rgba(0,0,0,0.3);
+        -o-box-shadow: -3px 3px 10px rgba(0,0,0,0.3);
+        box-shadow: -3px 3px 10px rgba(0,0,0,0.3);
+        -webkit-border-radius: 10px;
+       	-moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+        border-radius: 10px;
+        background: rgba(0,0,0,0.65);
+    }
+    
+    article.sobre-novel div {
+        margin: 20px 30px 20px 30px;
+        color: white;
+        font-size: 13px;
+        font-size: 1.3em;
+        line-height: 20px;
+    }
+    
+    article.sobre-novel h1 {
+        margin: 30px 30px 0px 30px;
+        -webkit-text-shadow: -1px 1px 1px rgba(0, 0, 0, 0.4);
+        -moz-text-shadow: -1px 1px 1px rgba(0, 0, 0, 0.4);
+        -ms-text-shadow: -1px 1px 1px rgba(0, 0, 0, 0.4);
+        -o-text-shadow: -1px 1px 1px rgba(0, 0, 0, 0.4);
+        text-shadow: -1px 1px 1px rgba(0, 0, 0, 0.4);
+        color: #fff;
+    }
+    
+    article.sobre-novel p {
+        margin: 10px 0px 15px 0px;
+    }
+    
+    article.sobre-novel p:last-child {
+        margin: 10px 0px 30px 0px;
+    }
+    
+    article.novel {
+        position: relative;
+        width: auto;
+        border: rgba(255,255,255,1) 3px solid;
+        -webkit-box-shadow: -3px 3px 10px rgba(0,0,0,0.3);
+        -moz-box-shadow: -3px 3px 10px rgba(0,0,0,0.3);
+        -ms-box-shadow: -3px 3px 10px rgba(0,0,0,0.3);
+        -o-box-shadow: -3px 3px 10px rgba(0,0,0,0.3);
+        box-shadow: -3px 3px 10px rgba(0,0,0,0.3);
+        -webkit-border-radius: 10px;
+       	-moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+        border-radius: 10px;
+        background: #212121;
+    }
+    
+    article.novel section.ampliar span {
+        color: white;
+    }
+    
+    article.novel h1.titulo {
+        margin: 30px 30px 30px 60px;
+        font-size: 22px;
+        font-size: 2.2em;
+        color: white;
+    }
+    
+    article.novel div.conteudo {
+        margin: 20px 30px 25px 30px; 
+        color: white; 
+        font-size: 12px;
+        font-size: 1.2em;
+        line-height: 25px;
+    }
+    
+    article.novel div.conteudo a:active,
+    article.novel div.conteudo a:hover,
+    article.novel div.conteudo a:visited,
+    article.novel div.conteudo a:link {
+    	color: rgba(242,107,29,1);
+    }
+    
+    article.novel div.conteudo img {
+        width: 100%;
+    }
+    
+    article.novel p {
+        margin: 10px 0px;
+        text-indent: 30px;
+        line-height: 30px;
+        word-wrap: break-word;
+    }
+    
+	/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   Theses examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+}
+
+@media only screen and (min-width:1025px) {
+	aside.lista-novels {
+		padding: 20px;
+    }
+    
+    article.novel header.novel .luz {
+   		margin: 3px 30px 0px 0px;
+   	}
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+       only screen and (min-resolution: 144dpi) {
+}
+
+@media only screen and (min-width:769px) and (max-width:1024px) {
+}
+
+@media only screen and (min-width:481px) and (max-width:768px) {
+}
+
+@media only screen and (max-width: 560px) {
+}
+
+@media only screen and (max-width: 490px) {
+	aside.lista-novels {
+		padding: 10px;
+        margin: 0px 0px 5px 0px;
+        float: none;
+    }
+        
+    section.container {
+        width: 100%;
+        display: block;
+    	clear: both;
+    }
+    
+    article.sobre-novel h1 {
+        margin: 20px 15px -5px 15px;
+    }
+    
+    article.sobre-novel div {
+        margin: 20px 15px 20px 15px;
+    }
+    
+    article.sobre-novel p:last-child {
+        margin: 10px 0px 20px 0px;
+    }
+    
+    article.novel h1.titulo {
+        margin: 30px 20px 20px 40px; 
+    }
+    
+    article.novel div.conteudo {
+        margin: 15px 20px 20px 20px; 
+    }
+}
+
+@media only screen and (min-width:321px) and (max-width:480px) {
+}
+
+@media only screen and (max-width:320px) {	
+	article.sobre-novel h1 {
+        margin: 15px 10px -5px 10px;
+    }
+    
+    article.sobre-novel div {
+        margin: 15px 10px 5px 10px;
+    }
+    
+    article.sobre-novel p:last-child {
+        margin: 10px 0px 15px 0px;
+    }
+    
+    article.novel h1.titulo {
+        margin: 20px 10px 10px 20px; 
+    }
+    
+    article.novel div.conteudo {
+        margin: 10px 10px 10px 10px; 
+    }
+}

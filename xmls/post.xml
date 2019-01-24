@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<posts>	
+		<post>
+			<titulo><![CDATA[<span>#4</span> Entender, conhecer para ser]]></titulo>
+			
+			<data>
+				<dia>19</dia>
+				<mes>10</mes>
+				<ano>2012</ano>
+				<semana>Sexta-feira</semana>
+			</data>
+			
+			<texto>
+				<![CDATA[
+				<img src="images/posts/responsivo.jpg"  data-hisrc="images/posts/high_responsivo.jpg" width="40%" height="" alt="" title="" />
+				<p>
+	Ol&aacute;, boa tarde.<o:p></o:p></p>
+<p>
+	Venho trazer algumas <strong>novidades</strong>.<o:p></o:p></p>
+<p>
+	<span style="color:#F26B1D;"><span style="font-size:14px;">Site</span></span><o:p></o:p></p>
+<p>
+	O site mais uma vez passou por mudan&ccedil;as significativas, a primeira delas &eacute; que ele agora &eacute; o que costumamos chamar de <strong>site responsivo</strong> (funciona em todos os formatos de tela), apenas &eacute; necess&aacute;rio que o navegador adotado d&ecirc; <strong>suporte ao html5 e css3</strong>, que s&atilde;o as tecnologias do momento.<o:p></o:p></p>
+<p>
+	Tamb&eacute;m reduzimos algumas coisas e agora o site t&ecirc;m um <strong>carregamento pelo menos 3x mais r&aacute;pido</strong>.<o:p></o:p></p>
+<p>
+	Melhoramos o design, agora est&aacute; em um formato mais profissional e clean e, acrescentamos algumas novas funcionalidades.<o:p></o:p></p>
+<p>
+	Inserimos os <strong>bot&otilde;es de redes sociais</strong> e corrigimos o link que compartilhava para o google plus nos posts do blog.<o:p></o:p></p>
+<p>
+	Conseguimos abstrair nossa <strong>marca</strong>, muito tempo foi desprendido para esse prop&oacute;sito. S&oacute; quem conhece esse processo conseguira entender o quanto &eacute; complicado essa etapa, mas enfim conseguimos cruzar essa linha e agora vamos ao pr&oacute;ximo desafio.<o:p></o:p></p>
+<p>
+	<span style="color:#F26B1D;"><span style="font-size:14px;">Light Novel</span></span><o:p></o:p></p>
+<p>
+	Queremos aumentar consideravelmente o n&uacute;mero de light novels. T&iacute;nhamos inserido apenas uma light novel que basicamente est&aacute;vamos usando-a como cobaia para nossas implementa&ccedil;&otilde;es e corre&ccedil;&otilde;es do sistema.<o:p></o:p></p>
+<p>
+	Atrav&eacute;s dela conseguimos perceber que n&atilde;o s&atilde;o todas as pessoas que preferem ler com a &nbsp;tela escura e letras claras, ent&atilde;o criamos uma fun&ccedil;&atilde;o para trocar o cen&aacute;rio de acordo com a preferencia.<o:p></o:p></p>
+<p>
+	Tamb&eacute;m acrescentamos o <strong>bot&atilde;o de volta ao topo&nbsp;</strong>que era algo muito importante pois com textos t&atilde;o longos, dificultava muito para usu&aacute;rios mobile transitarem por longas paginas. Al&eacute;m de identificarmos algumas falhas que s&oacute; eram poss&iacute;veis de serem identificadas quando a aplica&ccedil;&atilde;o em funcionamento.<o:p></o:p></p>
+<p>
+	Nosso pr&oacute;ximo passo &eacute; aumentar nosso acervo e frequ&ecirc;ncia aqui no blog e redes sociais.<o:p></o:p></p>
+<p>
+	At&eacute; a pr&oacute;xima.<o:p></o:p></p>
+				]]>
+			</texto>
+			
+			<tags>Responsivo,Marca,Novidades,Redes Sociais</tags>
+		</post>
+		
+		<post>
+			<titulo><![CDATA[<span>#3</span> Bateria do meu celular esta acabando]]></titulo>
+			
+			<data>
+				<dia>10</dia>
+				<mes>10</mes>
+				<ano>2012</ano>
+				<semana>Quarta-feira</semana>
+			</data>
+			
+			<texto>
+				<![CDATA[
+					<p>
+	Yooo, boa noite.<o:p></o:p></p>
+<p>
+	Venho dar algumas <strong>not&iacute;cias</strong>.<o:p></o:p></p>
+<p>
+	Inserimos o restante dos cap&iacute;tulos de <strong><em>Zaregoto Series</em></strong> e com isso terminamos o volume 1.&nbsp;Ficou muito bacana e espero que apreciem.<o:p></o:p></p>
+<p>
+	N&atilde;o encontramos a tradu&ccedil;&atilde;o do(s) volumes seguintes de Zaregoto Series, desta forma caso algu&eacute;m queira abra&ccedil;ar esta causa e traduzi-los, ter&iacute;amos o prazer em ajudar ou formar um grupo com esse prop&oacute;sito.</p>
+<p>
+	Tamb&eacute;m trago outra novidade, implementamos o m&oacute;dulo <strong><em>leitor em tela cheia</em></strong> no app <em>leitor de light novel</em>. Acredito que isso facilitar&aacute; muito a vida daqueles que pretendem ler usando algum dispositivo mobile.</p>
+<p>
+	Gostaria de pedir que nos deem um <a href="mailto:contato@gyulpon.com?subject=Feedback"><span style="color:#f26b1d;">feedback</span></a> em rela&ccedil;&atilde;o ao uso da ferramenta. Queremos saber se a fonte e as cores est&atilde;o facilitando a leitura ou se precisamos alterar algo.</p>
+<p>
+	Por ora &eacute; s&oacute;, ja ne.</p>
+
+				]]>
+			</texto>
+			
+			<tags>Zaregoto,Leitor Novel,Novidades</tags>
+		</post>
+			
+			
+		<post>
+			<titulo><![CDATA[<span>#2</span> Mais um post Zaregoto]]></titulo>
+			
+			<data>
+				<dia>9</dia>
+				<mes>10</mes>
+				<ano>2012</ano>
+				<semana>Terça-feira</semana>
+			</data>
+			
+			<texto>
+				<![CDATA[
+				<p>
+	Yooo, &nbsp;muitas coisas aconteceram durante essa &uacute;ltima semana.</p>
+<p>
+	<span style="font-size:14px;"><span style="color:#f26b1d;">Leitor de Light Novel</span></span></p>
+<p>
+	Enfim, conseguimos&nbsp;alguns parceiros. Estes ser&atilde;o respons&aacute;veis por abastecer nosso leitor de Light Novels com suas tradu&ccedil;&otilde;es.&nbsp;<o:p></o:p></p>
+<p>
+	Os grupos que cederam seu acervo e nos agraciaram com sua ajuda foram:<o:p></o:p></p>
+<p>
+	<a href="http://comoeporque.wordpress.com/" target="_blank"><span style="color:#000000;"><em><strong>Como e Porque</strong></em></span></a><o:p></o:p></p>
+<p>
+	Foi o grupo que traduziu o primeiro volume da novel de Durarara!!<o:p></o:p></p>
+<p>
+	Nesse blog voc&ecirc;s encontr&atilde;o conte&uacute;do relacionado ao universo otaku, al&eacute;m do primeiro volume da novel de DRRR! como j&aacute; foi dito..<o:p></o:p></p>
+<p>
+	<a href="http://downloadseanimes.blogspot.com.br/" target="_blank"><span style="color:#000000;"><strong><em>Downloads &amp; Animes</em></strong></span></a><o:p></o:p></p>
+<p>
+	Este grupo possui conte&uacute;do diversificado relacionado a cultura oriental.<o:p></o:p></p>
+<p>
+	<a href="http://sosdanbr.wordpress.com/" target="_blank"><span style="color:#000000;"><strong><em>S.O.S Dan Brasil</em></strong></span></a><o:p></o:p></p>
+<p>
+	S&atilde;o os respons&aacute;veis por disponibilizar as tradu&ccedil;&otilde;es das diversas m&iacute;dias de Suzumiya Haruhi.<o:p></o:p></p>
+<p>
+	<a href="http://imoutolover.wordpress.com/" target="_blank"><span style="color:#000000;"><strong><em>Imouto Lover</em></strong></span></a><o:p></o:p></p>
+<p>
+	Blog com conte&uacute;do voltado para o universo otaku, em sua maioria opini&otilde;es relacionadas &agrave; light novels.<o:p></o:p></p>
+<p>
+	Espero que essas parcerias sejam duradouras.</p>
+<p>
+	&nbsp;</p>
+<p>
+	Inserimos uma light novel pioneira em nosso sistema &quot;Zaregoto Series&quot;, por ora apenas foi inserido o primeiro capitulo, mas em breve colocaremos todo o primeiro volume e tamb&eacute;m outras obras.<o:p></o:p></p>
+<p>
+	&Eacute; importante frisar que apenas novels n&atilde;o licenciadas no Brasil estar&atilde;o presentes em nosso sistema. Por favor, caso encontre em nosso site algum conte&uacute;do licenciado ou com conte&uacute;do ofensivo. Envie-nos um e-mail para&nbsp;<a href="mailto:contato@gyulpon.com"><span style="color: rgb(242, 107, 29); ">contato@gyulpon.com</span></a>&nbsp;ou use o formul&aacute;rio para envio presente no rodap&eacute; do site.<o:p></o:p></p>
+<p>
+	As novels foram traduzidas e est&atilde;o dispon&iacute;veis gratuitamente, por isso n&atilde;o compre ou venda esse mat&eacute;rial, pois foi feito de f&atilde;s para f&atilde;s.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<span style="color:#f26b1d;"><span style="font-size:14px;">Site</span></span><o:p></o:p></p>
+<p>
+	Ainda o site apenas funciona completamente no navegador Chrome. Durante as pr&oacute;ximas semanas iremos tornar tamb&eacute;m port&aacute;vel nos navegadores Firefox, Safari e Opera.<o:p></o:p></p>
+<p>
+	Corrigimos alguns bugs que estavam acontecendo nos nossos menus que estavam demorando muito para carregar e em alguns casos paravam de funcionar.</p>
+<p>
+	<o:p></o:p></p>
+<p>
+	Melhoramos a forma como era feito a requisi&ccedil;&atilde;o das p&aacute;ginas no leitor de light novels. Desta forma conseguimos reduzir muito o tempo de carregamento das novels.</p>
+<p>
+	Vou tentar em uma pr&oacute;xima vez trazer um post mais descontra&iacute;do.<o:p></o:p></p>
+<p>
+	At&eacute; a&nbsp;pr&oacute;xima.</p>
+
+				]]>
+			</texto>
+			
+			<tags>Zaregoto,Parceiros,Correções</tags>
+		</post>
+		
+		<post>
+			<titulo><![CDATA[<span>#1</span> Tudo se transforma]]></titulo>
+			
+			<data>
+				<dia>3</dia>
+				<mes>10</mes>
+				<ano>2012</ano>
+				<semana>Quarta-feira</semana>
+			</data>
+			
+			<texto>
+				<![CDATA[
+					<img src="images/posts/oldlogo.gif" width="40%" height="" alt="" title="" />
+				
+					<p>
+						<strong>Gyulpon</strong> é uma ideia que surgiu no inicio de 2012 quando percebemos a necessidade de organizar nossos projetos, divulgar tecnologias recentes e expressar nossa opinião.
+					</P
+					
+					<p>	
+						Esse pensamento evoluiu e hoje não só queremos expor nossos pensamentos e habilidades, como também reunir parceiros que farão o mesmo nesse ambiente.
+					</p>
+					
+					<p>	
+						No blog você encontrará divulgação de futuros projetos e novidades dos projetos já lançados, notícias sobre tecnologia ou qualquer assunto julgado ser pertinente ao nosso contexto.
+					</p>	
+						
+					<p>
+						Também as atividades realizadas pelas equipes serão expostas nesse blog e redes sociais.
+						Ainda há muito a fazer, o site ainda não alcançou o potencial desejado, e o ambiente ainda precisa evoluir muito, mas por ora estamos satisfeitos. Esperamos em breve receber feedback dos usuários e tentar melhorar cada vez mais.
+					</p>
+					
+					<p>
+						Logo mais comentaremos sobre a nossa primeira aplicação <em>Leitor de Light Novel</em> e, algumas melhorias já propostas. É muito importante o feedback como já mencionado.
+					</p>
+										
+					<p>
+						Por fim, agradeçemos a todos que nos ajudaram e estão ajudando nesse projeto e sejam bem vindos aqueles que pretendem fazer bom uso das nossas atuais e futuras aplicações.
+					</p>
+				]]>
+			</texto>
+			
+			<tags>#1,Gyulpon</tags>
+		</post>
+	</posts>

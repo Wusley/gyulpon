@@ -1,0 +1,36 @@
+	<capitulo id='3'>
+		<titulo><![CDATA[ ]]></titulo>
+		
+		<texto>
+			<img src="light-novel/xmls/obras/Sword_Art_Online/images/226_sao1_092.jpg" data-hisrc="light-novel/xmls/obras/Sword_Art_Online/images/566_sao1_092.jpg"/>
+			
+			<![CDATA[
+			// legenda
+			<strong><span style="color:dimGray;"></span></strong></p>
+			
+			// espaco
+			<p>&nbsp;</p>
+			
+			//imagem
+			<img src="light-novel/" data-hisrc="light-novel/"/>
+			
+			// cima
+			<sup><a href="#a-1">1</a><a id="sup-1"></a></sup>
+			
+			// baixo
+			<a id="a-1">1</a>
+			<a href="#sup-1"><img alt="" src="light-novel/images/icons/10x10_cima.png" style="width: 10px; height: 10px;" /></a>		
+			]]>
+		</texto>
+	</capitulo>
+	
+	<extra>
+		<item>
+			<titulo>Personagens</titulo>
+			
+			<texto>
+				<![CDATA[
+				]]>
+			</texto>
+		</item>
+	</extra>
